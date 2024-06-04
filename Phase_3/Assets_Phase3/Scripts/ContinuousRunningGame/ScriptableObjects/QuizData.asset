@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 746cdcee384ccf9449e14b8b1263a048, type: 3}
+  m_Name: QuizData
+  m_EditorClassIdentifier: 
+  mQuizData:
+  - QuizTxt: What should you do to save electricity with lights?
+    hintCollectionID: 0
+    QuizImg: {fileID: 274215605, guid: 90c6a4db5cbfc914e81ccf4d65890817, type: 3}
+    QuizAnswersArray:
+    - Use LED bulbs
+    - Turn off when not needed
+    - Use natural light
+  - QuizTxt: How can you save energy when it's hot outside?
+    hintCollectionID: 1
+    QuizImg: {fileID: 274215605, guid: 90c6a4db5cbfc914e81ccf4d65890817, type: 3}
+    QuizAnswersArray:
+    - Close doors, use curtains
+    - Use fans smartly
+    - Avoid unnecessary cooling
+  - QuizTxt: What uses the most electricity in a home?
+    hintCollectionID: 2
+    QuizImg: {fileID: 274215605, guid: 90c6a4db5cbfc914e81ccf4d65890817, type: 3}
+    QuizAnswersArray:
+    - HVAC systems
+    - Fridge
+    - Water heater
+  - QuizTxt: How can you save energy while washing clothes?
+    hintCollectionID: 3
+    QuizImg: {fileID: 274215605, guid: 90c6a4db5cbfc914e81ccf4d65890817, type: 3}
+    QuizAnswersArray:
+    - Full loads only
+    - Use cold water
+    - Air dry
+  - QuizTxt: How can you save electricity with electronics?
+    hintCollectionID: 4
+    QuizImg: {fileID: 274215605, guid: 90c6a4db5cbfc914e81ccf4d65890817, type: 3}
+    QuizAnswersArray:
+    - Unplug when not in use
+    - Use power strips
+    - Upgrade to energy-efficient models
+  - QuizTxt: What helps save energy with lighting?
+    hintCollectionID: 5
+    QuizImg: {fileID: 274215605, guid: 90c6a4db5cbfc914e81ccf4d65890817, type: 3}
+    QuizAnswersArray:
+    - LED bulbs
+    - Use natural light
+    - Turn off when leaving room
+  - QuizTxt: How can you save energy with water heating?
+    hintCollectionID: 6
+    QuizImg: {fileID: 274215605, guid: 90c6a4db5cbfc914e81ccf4d65890817, type: 3}
+    QuizAnswersArray:
+    - Use less hot water
+    - Insulate hot water tank
+    - Fix leaks promptly
+  - QuizTxt: How can you save energy in the kitchen?
+    hintCollectionID: 7
+    QuizImg: {fileID: 274215605, guid: 90c6a4db5cbfc914e81ccf4d65890817, type: 3}
+    QuizAnswersArray:
+    - Use microwave
+    - Keep fridge closed
+    - Cook with lids on
+  - QuizTxt: What should you do with electronics not in use?
+    hintCollectionID: 8
+    QuizImg: {fileID: 274215605, guid: 90c6a4db5cbfc914e81ccf4d65890817, type: 3}
+    QuizAnswersArray:
+    - Unplug
+    - Use power strips
+    - Turn off completely
+  - QuizTxt: How can you save energy with air conditioning?
+    hintCollectionID: 9
+    QuizImg: {fileID: 274215605, guid: 90c6a4db5cbfc914e81ccf4d65890817, type: 3}
+    QuizAnswersArray:
+    - Set thermostat higher
+    - Use fans
+    - Seal windows and doors
