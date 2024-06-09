@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 078c1914fc843044195c5058b672a91b, type: 3}
+  m_Name: CollectionData
+  m_EditorClassIdentifier: 
+  mCollectionData:
+  - CollectionName: Watermelon
+    CollectionID: 0
+    CollectionThumbnailImg: {fileID: 21300000, guid: 99c85ef61c118454ebc4801ce6b14358, type: 3}
+    CollectionImg: {fileID: 21300000, guid: 370330a126c544b47951afd0af754378, type: 3}
+    CollectionDescription: It has an oval or spherical shape and a dark green and
+      smooth rind, sometimes showing irregular areas of a pale green colour. It has
+      a sweet, juicy, refreshing flesh of yellowish or reddish colour, containing
+      multiple black, brown or white pips.
+  - CollectionName: 'Pineapple '
+    CollectionID: 1
+    CollectionThumbnailImg: {fileID: 21300000, guid: c6953102c71e198468c84a4731c877bd, type: 3}
+    CollectionImg: {fileID: 21300000, guid: 307071d7ea6b73142b823f1fa763b3ee, type: 3}
+    CollectionDescription: A pineapple is a sweet tropical fruit with a tough leathery
+      skin and spiky leaves on top. Pineapple is excellent, whether eaten as a snack,
+      in a sweet dessert, in savory dishes like fried rice, or even on pizza.
+  - CollectionName: 'Mango '
+    CollectionID: 2
+    CollectionThumbnailImg: {fileID: 21300000, guid: b3b25a5926422974c9c7626c19cb656c, type: 3}
+    CollectionImg: {fileID: 21300000, guid: 46f5990753fc49a429e6693697a22a17, type: 3}
+    CollectionDescription: A mango is a sweet tropical fruit, and it's also the name
+      of the trees on which the fruit grows. Ripe mangoes are juicy, fleshy, and
+      delicious. Like peaches and plums, mangoes have an inedible pit at the center.
+      Unlike these other fruits, the skin of a mango is very tough and also inedible.
+  - CollectionName: 'Mango '
+    CollectionID: 3
+    CollectionThumbnailImg: {fileID: 21300000, guid: b3b25a5926422974c9c7626c19cb656c, type: 3}
+    CollectionImg: {fileID: 21300000, guid: 46f5990753fc49a429e6693697a22a17, type: 3}
+    CollectionDescription: A mango is a sweet tropical fruit, and it's also the name
+      of the trees on which the fruit grows. Ripe mangoes are juicy, fleshy, and
+      delicious. Like peaches and plums, mangoes have an inedible pit at the center.
+      Unlike these other fruits, the skin of a mango is very tough and also inedible.
+  - CollectionName: 'Mango '
+    CollectionID: 4
+    CollectionThumbnailImg: {fileID: 21300000, guid: b3b25a5926422974c9c7626c19cb656c, type: 3}
+    CollectionImg: {fileID: 21300000, guid: 46f5990753fc49a429e6693697a22a17, type: 3}
+    CollectionDescription: A mango is a sweet tropical fruit, and it's also the name
+      of the trees on which the fruit grows. Ripe mangoes are juicy, fleshy, and
+      delicious. Like peaches and plums, mangoes have an inedible pit at the center.
+      Unlike these other fruits, the skin of a mango is very tough and also inedible.
+  - CollectionName: 'Mango '
+    CollectionID: 5
+    CollectionThumbnailImg: {fileID: 21300000, guid: b3b25a5926422974c9c7626c19cb656c, type: 3}
+    CollectionImg: {fileID: 21300000, guid: 46f5990753fc49a429e6693697a22a17, type: 3}
+    CollectionDescription: A mango is a sweet tropical fruit, and it's also the name
+      of the trees on which the fruit grows. Ripe mangoes are juicy, fleshy, and
+      delicious. Like peaches and plums, mangoes have an inedible pit at the center.
+      Unlike these other fruits, the skin of a mango is very tough and also inedible.
+  - CollectionName: 'Mango '
+    CollectionID: 6
+    CollectionThumbnailImg: {fileID: 21300000, guid: b3b25a5926422974c9c7626c19cb656c, type: 3}
+    CollectionImg: {fileID: 21300000, guid: 46f5990753fc49a429e6693697a22a17, type: 3}
+    CollectionDescription: A mango is a sweet tropical fruit, and it's also the name
+      of the trees on which the fruit grows. Ripe mangoes are juicy, fleshy, and
+      delicious. Like peaches and plums, mangoes have an inedible pit at the center.
+      Unlike these other fruits, the skin of a mango is very tough and also inedible.
+  - CollectionName: 'Mango '
+    CollectionID: 7
+    CollectionThumbnailImg: {fileID: 21300000, guid: b3b25a5926422974c9c7626c19cb656c, type: 3}
+    CollectionImg: {fileID: 21300000, guid: 46f5990753fc49a429e6693697a22a17, type: 3}
+    CollectionDescription: A mango is a sweet tropical fruit, and it's also the name
+      of the trees on which the fruit grows. Ripe mangoes are juicy, fleshy, and
+      delicious. Like peaches and plums, mangoes have an inedible pit at the center.
+      Unlike these other fruits, the skin of a mango is very tough and also inedible.
+  - CollectionName: 'Mango '
+    CollectionID: 8
+    CollectionThumbnailImg: {fileID: 21300000, guid: b3b25a5926422974c9c7626c19cb656c, type: 3}
+    CollectionImg: {fileID: 21300000, guid: 46f5990753fc49a429e6693697a22a17, type: 3}
+    CollectionDescription: A mango is a sweet tropical fruit, and it's also the name
+      of the trees on which the fruit grows. Ripe mangoes are juicy, fleshy, and
+      delicious. Like peaches and plums, mangoes have an inedible pit at the center.
+      Unlike these other fruits, the skin of a mango is very tough and also inedible.
+  - CollectionName: 'Mango '
+    CollectionID: 9
+    CollectionThumbnailImg: {fileID: 21300000, guid: b3b25a5926422974c9c7626c19cb656c, type: 3}
+    CollectionImg: {fileID: 21300000, guid: 46f5990753fc49a429e6693697a22a17, type: 3}
+    CollectionDescription: A mango is a sweet tropical fruit, and it's also the name
+      of the trees on which the fruit grows. Ripe mangoes are juicy, fleshy, and
+      delicious. Like peaches and plums, mangoes have an inedible pit at the center.
+      Unlike these other fruits, the skin of a mango is very tough and also inedible.
