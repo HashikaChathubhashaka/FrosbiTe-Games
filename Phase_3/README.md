@@ -14,3 +14,7 @@ Local host the index.html file. ( U can use Go live)
 Maximize the window when you are playing.
 
 Skip the Data filling (User name, and others ) paths. [You dont need to fill them.]
+
+<h1> Game Video </h1>
+
+https://drive.google.com/file/d/1YVLBENSS8ci6Y3SvA5sr-OVB8S1pNrCS/view?usp=sharing
